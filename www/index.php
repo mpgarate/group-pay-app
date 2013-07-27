@@ -1,11 +1,8 @@
 <?php include 'header.php'; ?>
-	<body>
-	<div class="container">
 		<div class="row span6">
-			<a href="page2.php">Page 2</a>
+			<a class = "btn" href="split_bill.php">Split Bill</a>
 		</div>
 		<div class="row span6">
-			<a href="page2.php">Page 2</a>
+			<a class = "btn" href="split_history.php">View History</a>
 		</div>
-	</div>
 <?php include 'footer.php';	?>
