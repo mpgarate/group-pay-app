@@ -17,6 +17,6 @@
 			<div>John Smith</div>
 		</div>
 		<div class="row">
-			<a href="split_amount.php" class="btn btn-primary">Next</a>
+			<a href="split_amount.php" class="btn btn-primary">Select amount</a>
 		</div>
 <?php include 'footer.php';	?>
