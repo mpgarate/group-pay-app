@@ -2,7 +2,6 @@
 			session_start();
 			$_SESSION['favcolor'] = 'green';
 			chroot ('/visa/');
-			include 'db.php';
 		?>
 <!DOCTYPE html>
 <html>
@@ -16,4 +15,4 @@
 </head>
 	<body>
 	<?php include 'navbar.php'; ?>
-	<div class="container">
+	<div class="container-fluid">
