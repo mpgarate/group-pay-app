@@ -1,7 +1,11 @@
 <?php include 'header.php'; ?>
 	<body>
-	<div class="row">
-		<a href="page2.php">Page 2</a>
+	<div class="container">
+		<div class="row span6">
+			<a href="page2.php">Page 2</a>
+		</div>
+		<div class="row span6">
+			<a href="page2.php">Page 2</a>
+		</div>
 	</div>
-	</body>
-</html>
+<?php include 'footer.php';	?>
