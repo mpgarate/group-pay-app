@@ -25,7 +25,7 @@
 			<div class="user-share" name="user3">$<?php echo $_POST["total-amount"]; ?></div>
 	</div>
 	<div class="row">
-		<label><input type="submit"></label>
+		<label><input type="submit" class="submit-button" value="Confirm Request" onClick="parent.location='/visa/form'"></label>
 	</div>
 	</div><!-- .users -->
 </div><!-- .user-dues -->

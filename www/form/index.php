@@ -2,7 +2,7 @@
 	<?php include "navbar-next.php"; ?>
 <form class="inline-form" action="review.php" method="post">
 <div class="row">
-	<input type="text" class="top-input" name="person-search" placeholder="Search">
+	<input type="text" class="person-search top-input" name="person-search" placeholder="Search Contacts">
 </div>
 	<fieldset class="user-list">
 	<div class="row">

@@ -34,7 +34,7 @@
 			<span>Split Evenly</span>
 		</label>
 	</div>
-		<label><input type="submit"></label>
+		<label><input type="submit" class="submit-button"></label>
 	</fieldset>
 </form>
 <?php include 'footer.php'; ?>
