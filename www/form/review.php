@@ -24,6 +24,7 @@
 		<div class="user-name"><strong>Total Amount:</strong></div>
 			<div class="user-share" name="user3">$<?php echo $_POST["total-amount"]; ?></div>
 	</div>
+		<label><input type="submit"></label>
 	</div><!-- .users -->
 </div><!-- .user-dues -->
 <?php include 'footer.php'; ?>

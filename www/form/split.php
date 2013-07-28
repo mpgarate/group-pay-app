@@ -2,7 +2,7 @@
 	<?php include "navbar.php"; ?>
 <form class="inline-form" action="review.php" method="post">
 <div class="row">
-	<input type="text" class="event-description" name="event-description" placeholder="Enter event description">
+	<input type="text" class="top-input" name="event-description" placeholder="Enter event description">
 </div>
 	<fieldset class="users">
 	<div class="row">
