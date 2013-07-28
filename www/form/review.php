@@ -5,7 +5,7 @@
 </div>
 
 <div class="row">
-	<div class="event-description"><strong><?php echo $_POST["event-description"]; ?> Split</strong></div>
+	<div class="event-description"><strong><?php echo $_POST["event-description"]; ?></strong></div>
 </div>
 <div class="user-dues">
 	<div class="users">
