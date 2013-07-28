@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
-	<?php include "navbar.php"; ?>
+
+<div class="navbar">
+<a href="/visa/form/" class="left">Back</a>
+</div>
+
 <form class="inline-form" action="review.php" method="post">
 <div class="row">
 	<input type="text" class="top-input" name="event-description" placeholder="Enter event description">

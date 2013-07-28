@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
-	<?php include "navbar.php"; ?>
+
+<div class="navbar">
+<a href="/visa/form/split.php" class="left">Back</a>
+</div>
+
 <div class="row">
 	<div class="event-description"><strong><?php echo $_POST["event-description"]; ?> Split</strong></div>
 </div>
