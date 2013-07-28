@@ -1,24 +1,26 @@
 <?php include 'header.php'; ?>
-		<div class="row">
-			<form class="">
-				<input type="text" class="span6" placeholder="Event Name">
+	<div class="row-fluid">
+  	<div class="span6">
+			<form class="inline-form">
+				<fieldset>
+					<label class="checkbox">
+						<img src="http://placekitten.com/25/25" />
+						<span>John Smith</span>
+						<input type="text" placeholder="$">
+					</label>
+					<label class="checkbox">
+						<img src="http://placekitten.com/25/25" />
+						<span>John Smith</span>
+						<input type="text" placeholder="$">
+					</label>
+					<label class="checkbox">
+						<img src="http://placekitten.com/25/25" />
+						<span>John Smith</span>
+						<input type="text" placeholder="$">
+					</label>
+				</fieldset>
 			</form>
-		</div>
-		<div class="row-fluid users">
-			<div class="row">
-				<img src="http://placekitten.com/50/50" />
-				<div>John Smith</div>
-			</div>
-			<div class="row">
-				<img src="http://placekitten.com/50/50" />
-				<div>John Smith</div>
-			</div>
-			<div class="row">
-				<img src="http://placekitten.com/50/50" />
-				<div>John Smith</div>
-			</div>
-		</div>
-		<div class="row">
-			<a href="split_review.php" class="btn btn-primary">Proceed</a>
-		</div>
-<?php include 'footer.php'; ?>
+				<a href="split_review.php" class="btn btn-primary">Proceed</a>
+		</div><!-- .span6 -->
+	</div><!-- .row-fluid -->
+<?php include 'footer.php';	?>
