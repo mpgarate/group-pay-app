@@ -12,24 +12,24 @@
 	<div class="row">
 		<img src="img/face.jpg" />
 		<div class="user-name">John Smith</div>
-			<input type="text" class="user-share" name="user1">
+			<input type="tel" class="user-share" name="user1">
 	</div>
 	<div class="row">
 		<img src="img/face.jpg" />
 		<div class="user-name">Jeff Jones</div>
-			<input type="text" class="user-share" name="user2">
+			<input type="tel" class="user-share" name="user2">
 	</div>
 	<div class="row">
 		<img src="img/face.jpg" />
 		<div class="user-name">Rob Dole</div>
-			<input type="text" class="user-share" name="user3">
+			<input type="tel" class="user-share" name="user3">
 	</div>
 	</fieldset>
 	<fieldset>
 	<div class="row">
 		<label>
 			<div>Total Amount</div>
-			<input type="text" class="total-amount" name="total-amount">
+			<input type="tel" class="total-amount" name="total-amount">
 		</label>
 	</div>
 	<div class="row">

@@ -118,6 +118,11 @@ input{
 	margin-bottom: 10px;
 }
 
+.users .row{
+	border-bottom:1px solid #e4e4e4;
+	padding-bottom:8px;
+	min-height:32px;
+}
 .label div, .row div{
 	padding: 8px 0 0 12px;
 }
