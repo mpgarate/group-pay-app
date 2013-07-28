@@ -1,0 +1,19 @@
+body {
+  padding-top: 60px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+
+.row{
+	 /* background:#eee; */
+}
+
+/* Forms */
+label.checkbox.checked-box{
+	background: blue;
+	color:white;
+}
+input[type='checkbox']{
+}
