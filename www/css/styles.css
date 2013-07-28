@@ -9,3 +9,11 @@ body {
 .row{
 	 /* background:#eee; */
 }
+
+/* Forms */
+label.checkbox.checked-box{
+	background: blue;
+	color:white;
+}
+input[type='checkbox']{
+}
