@@ -2,7 +2,7 @@
 	<div class="row-fluid">
   	<div class="span6">
   	<?php echo $_SESSION['users[]'] ?>
-			<form class="inline-form">
+			<form class="inline-form" action="split_review.php">
 				<fieldset>
 					<label>
 						<img src="http://placekitten.com/25/25" />
